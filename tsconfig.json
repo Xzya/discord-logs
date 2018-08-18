@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "lib": [
+            "es6",
+            "es2015"
+        ],
+        "moduleResolution": "node",
+        "rootDir": "src",
+        "outDir": "dist",
+        "alwaysStrict": true,
+        "allowJs": false,
+        "noImplicitAny": true,
+        "noUnusedLocals": true,
+        "noImplicitThis": true,
+        "strictNullChecks": true,
+        "noImplicitReturns": true,
+        "preserveConstEnums": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true
+    },
+    "include": [
+        "src"
+    ]
+}
